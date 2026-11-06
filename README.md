@@ -1,25 +1,25 @@
-# Die Befreiung von Freddy: gefangen im magischen Buch
+# Die Befreiung von Freddy – Jurypreis an der BFH Entrepreneurship Week 2024
 
-Teamprojekt der BFH Entrepreneurship Week 2024 im Modul WBWL – Grundlagen BWL (HS24).
+*English: Team video project at the BFH Entrepreneurship Week 2024, awarded the jury prize for originality and productive use of technology. My part: video editing and post-production.*
+
+| | |
+|---|---|
+| **Rahmen** | BFH Entrepreneurship Week 2024, Modul WBWL – Grundlagen BWL (HS24) |
+| **Team** | 5 Personen: Carole Jeckelmann, Jasmin Marti, Jonas Bader, Kajeethan Srikaran, Zahir Saipi |
+| **Mein Teil** | Gesamter Videoschnitt und Nachbearbeitung, teilweise Aufnahmen |
+| **Werkzeug** | LumaFusion |
+| **Auszeichnung** | Jury award for originality and productive use of technology |
 
 ## Auszeichnung
 
-**Jury award for originality and productive use of technology**, verliehen durch das Institute Innovation & Strategic Entrepreneurship (IISE).
-
-Die Jury wählte drei Lieblingsprojekte aus. Dieses Projekt erhielt den genannten Kategoriepreis; damit ist kein Gesamtsieg oder erster Rang behauptet.
-
-**Nachweis:** Abschlussfolien der Entrepreneurship Week 2024, Folie 15, abrufbar im [BFH-Moodle-Kurs](https://moodle.bfh.ch/mod/resource/view.php?id=2270964) (Anmeldung erforderlich). Dort sind Teamname, Videolink und alle fünf Teammitglieder aufgeführt. Nachweis am 6. November 2026 geprüft.
-
-## Mein Beitrag – Jonas Bader
-
-Gesamter Videoschnitt und Nachbearbeitung in LumaFusion; teilweise Mitarbeit bei den Aufnahmen (eigene Angabe). Die Auszeichnung gilt dem gesamten Teamprojekt.
-
-## Team
-
-Carole Jeckelmann, Jasmin Marti, Jonas Bader, Kajeethan Srikaran und Zahir Saipi.
+Die Jury des Institute Innovation & Strategic Entrepreneurship (IISE) wählte drei Lieblingsprojekte aus. «Die Befreiung von Freddy: gefangen im magischen Buch» erhielt den Preis für **Originalität und produktiven Einsatz von Technologie**. Der Preis gilt dem ganzen Team.
 
 ## Video
 
-[Projektvideo auf BFH Kaltura](https://kaf.moodle.bfh.ch/media/t/0_73tyuzfc) – BFH-Anmeldung kann erforderlich sein.
+[Projektvideo auf BFH Kaltura](https://kaf.moodle.bfh.ch/media/t/0_73tyuzfc) (BFH-Anmeldung kann nötig sein). Nachweis: Abschlussfolien der Entrepreneurship Week 2024, Folie 15, im [BFH-Moodle-Kurs](https://moodle.bfh.ch/mod/resource/view.php?id=2270964) (Anmeldung nötig).
 
-Dieses Repository dokumentiert das Projekt und den eigenen Beitrag. Das Video und die BFH-Abschlussfolien werden nicht mitkopiert. Dies ist ein Medien-/Entrepreneurship-Projekt, kein Softwareprodukt.
+Das Video und die Folien gehören der BFH bzw. dem Team und liegen deshalb nicht in diesem Repository.
+
+---
+
+Weitere Projekte: [Portfolio von Jonas Bader](https://jonasbader7.github.io/Portfoliopage/)
